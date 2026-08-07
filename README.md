@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Ian Pedra Martins
 
-<!--
-**ianpedramartins/ianpedramartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na PUC Minas
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CS50 – Harvard University
+- Linguagem C e C#
+- Algoritmos
+- Estruturas de Dados
+- Git e GitHub
+- HTML, CSS e JavaScript
+
+---
+
+## Objetivo
+
+Busco desenvolver uma carreira em Engenharia de Software, construindo uma base sólida em programação, algoritmos e desenvolvimento de aplicações.
+
+---
+
+## Tecnologias
+
+- C, C# e JavaScript
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Projetos
+
+- 📘 CS50
+- 💻 Projetos acadêmicos (Website e aplicativo de relacionamento)
+- 🚀 Projetos pessoais
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/ian-pedra-martins-b8164a373/
+- Email: ianpedra@gmail.com
