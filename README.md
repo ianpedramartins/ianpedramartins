@@ -31,8 +31,8 @@ Busco desenvolver uma carreira em Engenharia de Software, construindo uma base s
 ## Projetos
 
 - 📘 CS50
-- 💻 Projetos acadêmicos (Website e aplicativo de relacionamento)
-- 🚀 Projetos pessoais
+- 💻 Projetos acadêmicos (Website: Aplicativo de Relacionamento)
+- 🚀 Projetos pessoais (Gerador e Analisador de Entropia de Senhas)
 
 ---
 
