@@ -8,8 +8,8 @@
 - Linguagem C e C#
 - Algoritmos
 - Estruturas de Dados
-- Git e GitHub
-- HTML, CSS e JavaScript
+- SQL
+- Python
 
 ---
 
