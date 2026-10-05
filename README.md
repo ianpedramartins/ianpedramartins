@@ -8,7 +8,7 @@
 - Linguagem C e C#
 - Algoritmos
 - Estruturas de Dados
-- SQL
+- SQL e NoSQL
 - Python
 
 ---
